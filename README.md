@@ -20,6 +20,20 @@
   What's Up Doc
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
 </h1>
+<br>
+<br>
+
+<p align='center'>
+Self taught, self motivated, and dedicated to my craft, I've built projects ranging from browser automation bots, to computer vision algorithms, and full blown websites. Currently, I'm motivated to harness the power of web development technologies to create well designed, well developed, and ambitios websites and applications.
+</p>
+<p align='center'>
+Check out my <a href="https://williamhrainey.wixsite.com/wthedev">website</a> for details on my web programming exploits!
+</p>
+<br>
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--
 **allforthe64/allforthe64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
