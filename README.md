@@ -125,6 +125,22 @@ Check out my <a href="https://williamhrainey.wixsite.com/wthedev">website</a> fo
 </div>
 <br>
 <br>
+<div align="center">
+<h1>Connect With Me!</h1>
+<div id="badges" align='center'>
+  <a href="https://www.linkedin.com/in/william-rainey-b-is-for-billiam/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+  </a>
+  <a href="https://twitter.com/bisforbilliam">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</div>
+<br>
+<br>
 <h1>My Stats: </h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=allforthe64&theme=dark)](https://git.io/streak-stats)
