@@ -108,12 +108,10 @@ Check out my <a href="https://williamhrainey.wixsite.com/wthedev">website</a> fo
 <br>
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200"/>
-  <br>
-  <br>
   <h1>My Skills</h1>
 </div>
-<div>
+<div align="center">
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="55" height="55"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="55" height="55"/>&nbsp;
@@ -127,7 +125,7 @@ Check out my <a href="https://williamhrainey.wixsite.com/wthedev">website</a> fo
 </div>
 <br>
 <br>
-<h3>My Stats: </h3>
+<h1>My Stats: </h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=allforthe64&theme=dark)](https://git.io/streak-stats)
 
