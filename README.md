@@ -74,7 +74,7 @@ Check out my <a href="https://williamhrainey.wixsite.com/wthedev">website</a> fo
         <br>
         <a href="https://www.discoverspiral.com/" rel="nofollow"> -->
           <!-- <img src="https://media.giphy.com/media/7S762QTEMzQjoA31nG  /giphy.gif" width="100%" alt="Discover Spiral" style="max-width: 100%;"> -->
-          <img src="https://media.giphy.com/media/gSVHez37i19fDSdP0T/giphy.gif" width="100%" alt="Portfolio" style="max-width: 100%;">
+          <img src="https://giphy.com/embed/zjZKUGrvViWjFrEMZC/giphy.gif" width="100%" alt="Portfolio" style="max-width: 100%;">
         </a>
         <br>
         <p align="center" dir="auto">
