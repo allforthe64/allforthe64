@@ -35,7 +35,7 @@ Self taught, self motivated, and dedicated to my craft, I've built projects rang
       <br>
         <a href="https://wattle-art-creations-qssacq6oj-linds0202.vercel.app/" rel="nofollow">
           <!-- <img src="https://media.giphy.com/media/Vcs4IXbnWnoYoeXD7X/giphy.gif"  width="50%" alt="Outrigger App" style="max-width: 100%;"> -->
-          <img src="https://giphy.com/media/iGl5SwTIXzyw9TI11z" width="100%" alt="Outrigger App" style="max-width: 100%;">
+          <img src="https://giphy.com/media/iGl5SwTIXzyw9TI11z/giphy.gif" width="100%" alt="Outrigger App" style="max-width: 100%;">
         </a>
       <br>
         <p align="center" dir="auto">
