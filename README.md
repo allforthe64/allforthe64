@@ -141,9 +141,6 @@ Self taught, self motivated, and dedicated to my craft, I've built projects rang
   <a href="https://www.linkedin.com/in/william-rainey-b-is-for-billiam/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
-  </a>
   <a href="https://twitter.com/bisforbilliam">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
