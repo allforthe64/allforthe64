@@ -40,7 +40,7 @@ Self taught, self motivated, and dedicated to my craft, I've built projects rang
       <br>
         <p align="center" dir="auto">
   <a href="https://github.com/linds0202/WattleArtCreations">
-    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white" alt="React Badge"/>
   </a>
   <a href="https://wattle-art-creations-qssacq6oj-linds0202.vercel.app/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
