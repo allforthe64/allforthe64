@@ -43,7 +43,7 @@ Self taught, self motivated, and dedicated to my craft, I've built projects rang
     <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white" alt="React Badge"/>
   </a>
   <a href="https://wattle-art-creations-qssacq6oj-linds0202.vercel.app/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   </a>
       </p>
         <p dir="auto"><strong>Next JS 13, TypeScript, Google Firebase, &amp; Tailwind CSS</strong> - My pièce de résistance: a custom platform, integrated into Google's Firebase platform and using the very newest Next JS techniques. On top of that, I've broken into the AI space (sorta :0). If you want to see what I'm talking about, read on to find out.</p>
@@ -57,13 +57,13 @@ Self taught, self motivated, and dedicated to my craft, I've built projects rang
         <br>
         <p align="center" dir="auto">
   <a href="https://github.com/allforthe64/spiralfrontend">
-    <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Frontend-red?style=for-the-badge&logo=github&logoColor=white" alt="React Badge"/>
   </a>
   <a href="https://github.com/allforthe64/spiral-backend">
-    <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Backend-red?style=for-the-badge&logo=github&logoColor=white" alt="React Badge"/>
   </a>
   <a href="https://www.discoverspiral.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Github-red" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   </a>
       </p>
         <p dir="auto"><strong>React JS, NodeJS, MongoDB &amp; Tailwind CSS</strong> - Taking full of advantage of React's lightning fast load times and tailwind's easy to use responsive design tools, the Spiral Learning website has it all. Discover how I leveraged my tech stack to build this beautiful modern site.</p>
@@ -79,10 +79,10 @@ Self taught, self motivated, and dedicated to my craft, I've built projects rang
         <br>
         <p align="center" dir="auto">
   <a href="https://github.com/allforthe64/React-ARETahiti">
-    <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white" alt="React Badge"/>
   </a>  
   <a href="https://aretahiti.onrender.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   </a>
       </p>
         <p dir="auto"><strong>React JS &amp; Tailwind CSS</strong> - A sales page for a company building Outrigger Canoes in Tahiti I built as a freelance project. Ready to see what happens when web development and paddling collide?</p>
@@ -96,10 +96,10 @@ Self taught, self motivated, and dedicated to my craft, I've built projects rang
         <br>
         <p align="center" dir="auto">
   <a href="https://github.com/allforthe64/Mogged">
-    <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white" alt="React Badge"/>
   </a>
   <a href="https://moggedsupplements.netlify.app/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   </a>
       </p>
         <p dir="auto"><strong>React.js, CSS &amp; HTML</strong> - Helping a gym supplements brand grow their online presence so they can grow their customer's muscles.</p>
