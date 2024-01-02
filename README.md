@@ -42,7 +42,7 @@ Self taught, self motivated, and dedicated to my craft, I've built projects rang
   <a href="https://github.com/linds0202/WattleArtCreations">
     <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white" alt="React Badge"/>
   </a>
-  <a href="https://wattle-art-creations-qssacq6oj-linds0202.vercel.app/" rel="nofollow">
+  <a href="https://vercel.com/linds0202/wattle-art-creations" rel="nofollow">
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   </a>
       </p>
